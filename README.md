@@ -4,7 +4,7 @@
 
 👨‍💻 Currently working on a user-friendly, interactive web page for a basketball training service.<br>
 🌱 Focusing on HTML, CSS, JavaScript, and React.<br>
-⚡ I like to play basketball.
+⚡ I like to play basketball and listen to music.
 
 <!--
 **acea3/acea3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
