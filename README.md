@@ -1,7 +1,7 @@
 ## Hi there, I'm Ace 👋
 
 🔭 I'm currently working on a user-friendly, interactive web page for a basketball training service.<br>
-🌱 I'm currently learning HTML, CSS, JavaScriot, and React.<br>
+🌱 I'm currently learning HTML, CSS, JavaScript, and React.<br>
 ⚡ Fun fact: Ball is life 🏀
 
 <!--
