@@ -1,7 +1,7 @@
 <h2>Hey, I'm Ace ♠️</h2>
 
 👨‍💻 I'm working on a user-friendly, interactive web page for a basketball training service.<br>
-🌱 I'm currently learning HTML, CSS, JavaScript, and the basics of React.<br>
+🌱 I'm currently exploring HTML, CSS, JavaScript, and the basics of React.<br>
 ⚡ I enjoy playing basketball and listening to music.
 
 <!--
