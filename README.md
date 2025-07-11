@@ -1,8 +1,10 @@
-## Hey, I'm Ace ♠️
+<h2>Hey, I'm Ace ♠️</h2>
 
-🔭 I'm currently working on a user-friendly, interactive web page for a basketball training service.<br>
-🌱 I'm currently learning HTML, CSS, JavaScript, and React.<br>
-⚡ Fun fact: I like playing basketball.
+<h3>Computer Science Student</h3>
+
+👨‍💻 Currently working on a user-friendly, interactive web page for a basketball training service.<br>
+🌱 Focusing on HTML, CSS, JavaScript, and React.<br>
+⚡ I like to play basketball.
 
 <!--
 **acea3/acea3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
